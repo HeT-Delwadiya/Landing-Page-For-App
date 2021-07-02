@@ -1,2 +1,2 @@
-# landing page for app
- A simple landing page for app. Made with bootstrap.
+# Landing-Page-For-App
+ A simple landing page for your app. Made using bootstrap.
